@@ -1,3 +1,5 @@
+//code to find HCF and LCM of two numbers
+
 #include<stdio.h>
 
 int main()
@@ -18,7 +20,7 @@ int main()
 	{
 		if(n1%i==0 && n2%i==0)
 		{
-			H*=i;
+			H=i;
 		}
 	}
 	if(n1%n2==0)
