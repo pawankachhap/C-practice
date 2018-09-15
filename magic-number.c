@@ -1,3 +1,6 @@
+/* program to find the next magic number after the given number.
+The given number can or cannot be a magic number */
+
 #include<stdio.h>
 
 int magic(int n)
