@@ -33,4 +33,6 @@ int main()
         result=magic(++num);
     }
     printf("%d",num);
+    
+    return 0;
 }
