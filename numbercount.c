@@ -6,7 +6,9 @@ int main()
 {
     int i,j,N,count=0;
     char str[10000000];
-    scanf("%d %s",&N.str);  //std_in of number of array elements and the array
+    scanf("%d",&N);  //std_in of number of array elements and the array
+    for(i=0;i<N;i++)
+    str[i]=getchar();
 
     for(i=0;i<N;i++)
     {
